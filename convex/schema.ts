@@ -8,4 +8,3 @@ export default defineSchema({
         completed: v.boolean(),
     }),
 });
-
